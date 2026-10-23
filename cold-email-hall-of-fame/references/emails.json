@@ -1,0 +1,1320 @@
+{
+  "meta": {
+    "title": "Cold Email Hall of Fame Database",
+    "version": "1.0.0",
+    "compiled": "2026-10-23",
+    "description": "Documented cold emails (plus a few famous cold calls and letters) that got replies from notable people. Every entry is paraphrased from a public source and linked. Full email bodies are not reproduced; follow the source link to read them.",
+    "verification_levels": {
+      "primary": "Told by the sender or recipient themselves, in their own published words or interview.",
+      "multi-source": "Reported consistently by two or more independent outlets.",
+      "single-source": "One secondary source; treat details as directional.",
+      "self-reported": "Sender's own claim on their blog or newsletter, not independently confirmed.",
+      "gated": "Featured by the source, but the email itself is behind a subscriber wall; only the public teaser is summarized."
+    },
+    "tactic_glossary": {
+      "credibility-first": "The first line carries proof: a backer, a metric, a brand, a hard thing done.",
+      "specific-ask": "One concrete, answerable request instead of 'pick your brain' or 'quick call'.",
+      "tiny-ask": "The ask is deliberately small: 'can I send more?', one question, one tip.",
+      "subject-is-the-email": "The whole request fits in the subject line so it can be answered from the inbox.",
+      "researched-personalization": "References something real and specific about the recipient, found through research.",
+      "public-signal-match": "The recipient had publicly said they want exactly this kind of email.",
+      "win-win-trade": "Frames what the recipient gets, not just what the sender wants.",
+      "problem-first": "Leads with a concrete, high-stakes problem before describing the product.",
+      "hard-metrics": "Real numbers and named customers instead of vague traction claims.",
+      "short": "Readable on a phone in under a minute.",
+      "persistence": "Multiple polite follow-ups, each adding something new.",
+      "rejection-reply": "Turns a 'no' into a new, lower-risk offer.",
+      "no-risk-offer": "Removes the downside for the recipient (free trial work, no commitment).",
+      "proof-of-work": "Ships something before asking: a demo, an essay, a video, a spec.",
+      "meet-then-email": "Brief in-person contact followed by a sharp written follow-up.",
+      "humility": "A brief, disarming acknowledgment of the cold approach.",
+      "curiosity-gap": "Gives the reader a reason to want to know more.",
+      "transparent-self-interest": "Says plainly why the sender wants this and how it fits their ambitions.",
+      "volume": "Emails many plausible recipients; one reply is enough.",
+      "borrowed-credibility": "Cites a known co-founder, institution or mutual connection.",
+      "topic-they-love": "Opens on a subject the recipient genuinely enjoys talking about.",
+      "timing": "Lands right when the recipient is primed (new fund, new company, public statement)."
+    }
+  },
+  "entries": [
+    {
+      "id": "seabrook-gates-1993",
+      "sender": "John Seabrook",
+      "sender_context": "New Yorker staff writer who had never met Gates",
+      "recipient": "Bill Gates",
+      "recipient_role": "Chairman, Microsoft",
+      "year": "1993",
+      "channel": "email",
+      "goal": "media",
+      "subject_line": null,
+      "what_it_did": "Skipped Microsoft PR and wrote straight to Gates's widely known address. Introduced himself as the writer working on the New Yorker piece about him and opened with a question about what makes email unique as a medium, a topic Gates loved.",
+      "the_ask": "Answer one open question about email",
+      "response": "Reply in 18 minutes",
+      "outcome": "A weeks-long email correspondence (three or four exchanges a week) that became the New Yorker article 'E-mail from Bill' (January 1994).",
+      "tactics": [
+        "topic-they-love",
+        "short",
+        "specific-ask",
+        "credibility-first"
+      ],
+      "verification": "primary",
+      "sources": [
+        {
+          "title": "E-mail from Bill (John Seabrook)",
+          "url": "https://johnseabrook.com/?p=171"
+        },
+        {
+          "title": "Cal Newport on the Seabrook profile",
+          "url": "https://calnewport.com/bill-gatess-prescient-internet-prediction/"
+        }
+      ]
+    },
+    {
+      "id": "hagerman-cuban-2024",
+      "sender": "Eric Hagerman",
+      "sender_context": "Special projects editor at Inc., unknown to Cuban",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor, Shark Tank",
+      "year": "2024",
+      "channel": "email",
+      "goal": "media",
+      "subject_line": "For Inc. mag: Can you pls. Share 3 Tips to Manage Your Inbox?",
+      "what_it_did": "Drafted ten versions with a colleague, then sent the entire request as the subject line. The body held only his signature so Cuban could see who was asking.",
+      "the_ask": "Three inbox-management tips",
+      "response": "Reply in 7 minutes (sent 4:03 pm, answered 4:10 pm)",
+      "outcome": "Cuban's tips ran in Inc. Hagerman distilled the lesson to: be clear, be brief, be direct.",
+      "tactics": [
+        "subject-is-the-email",
+        "tiny-ask",
+        "short",
+        "credibility-first"
+      ],
+      "verification": "primary",
+      "sources": [
+        {
+          "title": "Inc: How I Got Mark Cuban to Answer My Email in 7 Minutes Flat",
+          "url": "https://www.inc.com/eric-hagerman/how-i-got-mark-cuban-to-answer-my-email-in-7-minutes.html"
+        }
+      ]
+    },
+    {
+      "id": "ghulati-cuban",
+      "sender": "Dhruv Ghulati",
+      "sender_context": "25-year-old first-time founder of Factmata, no US network",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "2016-17",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Opened by apologizing for the cold message, then stacked credibility fast: Google-backed, three NLP researchers with 30+ published papers. Tied the pitch to Cuban's own recent public comments on fake news. Under 150 words.",
+      "the_ask": "Permission to share more about the company",
+      "response": "Reply the same day",
+      "outcome": "$250K immediately and another $250K nine months later. Ghulati raised his whole ~$1M seed through cold email; he also emailed Craig Newmark and Biz Stone.",
+      "tactics": [
+        "humility",
+        "credibility-first",
+        "researched-personalization",
+        "tiny-ask",
+        "short",
+        "timing"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "AngelBacked: The Cold Emails That Actually Got Founders Funded",
+          "url": "https://www.angelbacked.co/blog/cold-emails-that-got-founders-funded"
+        },
+        {
+          "title": "Hunter: 5 Cold Email Examples That Drove Millions",
+          "url": "https://hunter.io/blog/cold-email-examples/"
+        }
+      ]
+    },
+    {
+      "id": "janoch-lemkin",
+      "sender": "Allie Janoch",
+      "sender_context": "CEO of Mapistry (environmental-compliance SaaS)",
+      "recipient": "Jason Lemkin",
+      "recipient_role": "Founder, SaaStr; SaaStr Fund",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": "SaaS for environmental compliance",
+      "what_it_did": "Her first email two years earlier was vague and went nowhere. The rewrite used a plain descriptive subject, led with the problem (compliance run on spreadsheets, multi-million-dollar lawsuit risk), then named Fortune 500 customers, a $3.7B market and specific growth numbers.",
+      "the_ask": "A 30-minute call, with two specific times offered",
+      "response": "Lemkin replied and later published it as one of the two best cold emails he had received",
+      "outcome": "Lemkin funded the company; Mapistry raised a $2.5M seed. The same template, tweaked per investor, hit a reported 33% success rate.",
+      "tactics": [
+        "problem-first",
+        "hard-metrics",
+        "specific-ask",
+        "persistence"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "SaaStr: cold email pitch examples",
+          "url": "https://www.saastr.com/cold-email-pitch-examples"
+        },
+        {
+          "title": "Hunter: 5 Cold Email Examples",
+          "url": "https://hunter.io/blog/cold-email-examples/"
+        },
+        {
+          "title": "AngelBacked: emails that got founders funded",
+          "url": "https://www.angelbacked.co/blog/cold-emails-that-got-founders-funded"
+        }
+      ]
+    },
+    {
+      "id": "talkdesk-lemkin",
+      "sender": "Talkdesk founders",
+      "sender_context": "Contact-center startup at roughly $1M ARR",
+      "recipient": "Jason Lemkin",
+      "recipient_role": "Founder, SaaStr",
+      "year": "not stated (at ~$1M ARR)",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Under 200 words. Led with the ARR figure, named real customer case studies, sketched the go-to-market and gave strong but unhyped growth metrics.",
+      "the_ask": "A conversation about investing",
+      "response": "Lemkin replied and funded quickly",
+      "outcome": "Lemkin became Talkdesk's first venture investor; the company later reached a ~$10B valuation.",
+      "tactics": [
+        "hard-metrics",
+        "credibility-first",
+        "short"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "SaaStr: cold email pitch examples",
+          "url": "https://www.saastr.com/cold-email-pitch-examples"
+        },
+        {
+          "title": "AngelBacked: Lemkin cold email portfolio",
+          "url": "https://www.angelbacked.co/blog/jason-lemkin-cold-email-portfolio-talkdesk-salesloft-pipedrive"
+        }
+      ]
+    },
+    {
+      "id": "lang-lemkin",
+      "sender": "Daniel Lang",
+      "sender_context": "Founder of Mangomint (salon and spa software), early stage",
+      "recipient": "Jason Lemkin",
+      "recipient_role": "Founder, SaaStr",
+      "year": "early-stage (year not stated)",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Cold-emailed with early customer revenue as the hook.",
+      "the_ask": "Investment conversation",
+      "response": "Reply within a few hours",
+      "outcome": "A small early investment; Lemkin stayed involved and Mangomint later raised a $35M Series B.",
+      "tactics": [
+        "hard-metrics",
+        "short"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "AngelBacked: One cold email to Jason Lemkin",
+          "url": "https://www.angelbacked.co/blog/mangomint-cold-email-jason-lemkin-35m-series-b"
+        }
+      ]
+    },
+    {
+      "id": "stebbings-benioff",
+      "sender": "Harry Stebbings",
+      "sender_context": "Founder of the 20VC podcast and fund",
+      "recipient": "Marc Benioff",
+      "recipient_role": "CEO, Salesforce",
+      "year": "2022-2023",
+      "channel": "email",
+      "goal": "media",
+      "subject_line": null,
+      "what_it_did": "Sent 53 emails, roughly weekly for a year. Each one varied the personal hook (a whiskey they both liked, a favorite holiday spot, recent results) and he A/B tested which personalization landed. Clear ask, short copy, credibility via audience numbers and past guests.",
+      "the_ask": "Appear as a podcast guest",
+      "response": "Yes on the 53rd email",
+      "outcome": "Benioff appeared on 20VC in 2023 and publicly credited Stebbings's persistence.",
+      "tactics": [
+        "persistence",
+        "researched-personalization",
+        "specific-ask",
+        "credibility-first",
+        "short"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "Business Insider via AOL: 53 cold emails to Benioff",
+          "url": "https://www.aol.com/news/29-old-vc-founder-cold-110001980.html"
+        },
+        {
+          "title": "Fortune: founder emailed Benioff 53 times",
+          "url": "https://www.fortune.com/2025/11/25/29-year-old-millennial-spammed-salesforce-ceo-marc-benioff-hustling-email-network-career-jobs-podcast-relationships"
+        },
+        {
+          "title": "Quantum Zeitgeist profile of Stebbings",
+          "url": "https://quantumzeitgeist.com/the-young-disruptors-playbook-harry-stebbings-on-building-media-empires-and-european-tech-ambition/"
+        }
+      ]
+    },
+    {
+      "id": "sechrist-benioff-1999",
+      "sender": "Drew Sechrist",
+      "sender_context": "Salesperson at a North Carolina systems integrator",
+      "recipient": "Marc Benioff",
+      "recipient_role": "Founder, salesforce.com (pre-revenue)",
+      "year": "1999",
+      "channel": "email",
+      "goal": "job / partnership",
+      "subject_line": null,
+      "what_it_did": "Read about salesforce.com in the Wall Street Journal, found Benioff's address and asked whether he could resell the product.",
+      "the_ask": "Become a reseller",
+      "response": "Quick reply: no reseller program, but fly to San Francisco and meet",
+      "outcome": "Hired on the spot as employee #36; stayed a decade and became Salesforce's top global account executive.",
+      "tactics": [
+        "timing",
+        "specific-ask",
+        "short"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "YesPress: Drew Sechrist bet his career on one cold email",
+          "url": "https://yespress.io/drew-sechrist"
+        }
+      ]
+    },
+    {
+      "id": "levie-cuban-2005",
+      "sender": "Aaron Levie",
+      "sender_context": "20-year-old USC student building Box from his dorm room",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Entrepreneur; then owner of the Dallas Mavericks",
+      "year": "2005",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Emailed essentially every investor he could find. Same pitch to all: storage getting cheaper, internet getting faster, people working across devices. Cuban's streaming-media past made him primed for it.",
+      "the_ask": "Investment",
+      "response": "Reply within a few hours, first proposing a data-hosting project together",
+      "outcome": "Cuban invested $350K before meeting the founders. Box later went public.",
+      "tactics": [
+        "volume",
+        "timing",
+        "short"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "CNBC via NBC LA: At 20, he cold-emailed Mark Cuban",
+          "url": "https://www.nbclosangeles.com/news/business/money-report/at-20-he-cold-emailed-mark-cuban-and-landed-a-350000-investment-now-the-company-is-worth-4-6-billion/3704075"
+        }
+      ]
+    },
+    {
+      "id": "ellis-cuban",
+      "sender": "Tim Ellis and Jordan Noone",
+      "sender_context": "Founders of Relativity Space (3D-printed rockets)",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "mid-2010s",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Pitched an ambitious space company entirely by email.",
+      "the_ask": "Seed investment",
+      "response": "Cuban engaged by email and never met them in person",
+      "outcome": "$500K initially and a few million in total; Cuban later described the company as worth about $4B.",
+      "tactics": [
+        "specific-ask"
+      ],
+      "verification": "primary",
+      "sources": [
+        {
+          "title": "Yahoo Finance / Benzinga: Cuban on Relativity Space",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/never-met-him-email-mark-170251066.html"
+        }
+      ]
+    },
+    {
+      "id": "oshmyansky-cuban-2018",
+      "sender": "Dr. Alex Oshmyansky",
+      "sender_context": "Radiologist who had founded Osh's Affordable Pharmaceuticals",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "2018",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": "Cold pitch",
+      "what_it_did": "Labeled it honestly in the subject line and pitched a mission Cuban already cared about: generic drugs priced out of reach by middlemen.",
+      "the_ask": "Investment in his company",
+      "response": "Reply in about five minutes",
+      "outcome": "Months of weekly email exchanges; Cuban pushed him to think bigger. It became the Mark Cuban Cost Plus Drug Company (founded 2020, pharmacy launched January 2022).",
+      "tactics": [
+        "humility",
+        "timing",
+        "topic-they-love",
+        "short"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "Texas Monthly: Mark Cuban's drug company",
+          "url": "https://www.texasmonthly.com/news-politics/mark-cuban-drug-industry-prices/"
+        },
+        {
+          "title": "TIME100 Health: Alex Oshmyansky",
+          "url": "https://www.aol.com/time100-health-alex-oshmyansky-121838754.html"
+        },
+        {
+          "title": "Wikipedia: Alex Oshmyansky",
+          "url": "https://en.wikipedia.org/wiki/Alex_Oshmyansky"
+        }
+      ]
+    },
+    {
+      "id": "hwang-cuban-2013",
+      "sender": "Tim Hwang",
+      "sender_context": "21-year-old FiscalNote co-founder living in a Motel 6 in Sunnyvale",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "2013",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Sent on a whim after watching Shark Tank. Short and direct: who he was, what FiscalNote did (AI to predict legislative outcomes), how far they'd come.",
+      "the_ask": "Investment",
+      "response": "Reply in 45 minutes, followed by detailed questions",
+      "outcome": "Cuban led the round with $740K; the round grew to about $1.3M.",
+      "tactics": [
+        "short",
+        "specific-ask",
+        "timing"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "AngelBacked: FiscalNote, Motel 6 and Mark Cuban",
+          "url": "https://www.angelbacked.co/blog/fiscalnote-tim-hwang-cold-email-mark-cuban-motel-6"
+        }
+      ]
+    },
+    {
+      "id": "joseph-cuban",
+      "sender": "Adam Joseph",
+      "sender_context": "Founder of Clipbook (AI PR monitoring), bootstrapped to $1M ARR",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "2020s",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Picked the five best media investors in the world and sent each a one-page pitch: what it does, why legacy tools fall short, what's different, $1M ARR bootstrapped.",
+      "the_ask": "Investment conversation",
+      "response": "Only Cuban replied, with about 20 skeptical questions",
+      "outcome": "Answered every question, then ran a live product demo on Cuban's own company. Raised a $3M seed co-led by Cuban.",
+      "tactics": [
+        "hard-metrics",
+        "short",
+        "proof-of-work",
+        "researched-personalization"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "AngelBacked: Clipbook's one-page pitch to Cuban",
+          "url": "https://www.angelbacked.co/blog/clipbook-cold-email-mark-cuban-3m-seed"
+        }
+      ]
+    },
+    {
+      "id": "ozonian-cuban-2011",
+      "sender": "Ryan Ozonian",
+      "sender_context": "Co-founder of Mention Mobile (social games), bootstrapping",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "2011",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Found a 2010 Cuban blog post saying he wanted to hear from social-game developers, then sent a short intro: Emmy-winning co-founder, one game shipped, more coming.",
+      "the_ask": "Introduction and a chance to pitch",
+      "response": "Reply in about 8 minutes, asking for a concept portfolio and revenue projections",
+      "outcome": "$250K investment after a couple of months of diligence, plus ongoing advice.",
+      "tactics": [
+        "public-signal-match",
+        "borrowed-credibility",
+        "proof-of-work",
+        "short"
+      ],
+      "verification": "primary",
+      "sources": [
+        {
+          "title": "Entrepreneur: The email that snagged an investment from Mark Cuban",
+          "url": "https://www.entrepreneur.com/blog/224527"
+        }
+      ]
+    },
+    {
+      "id": "renner-cuban",
+      "sender": "Reggie Renner",
+      "sender_context": "CEO of ZergNet",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Sent a detailed pitch in the middle of the night.",
+      "the_ask": "Investment",
+      "response": "Cuban liked the idea and the detail of the answers",
+      "outcome": "$30K initially, with more later.",
+      "tactics": [
+        "specific-ask"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "Founders' Hustle: How to pitch Mark Cuban via cold email (archived) (page since removed)",
+          "url": "https://foundershustle.beehiiv.com/p/pitch-mark-cuban-via-coldemail"
+        }
+      ]
+    },
+    {
+      "id": "khurana-cuban",
+      "sender": "Harsh Khurana",
+      "sender_context": "CEO of Cultivate (tools for US small businesses)",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Cold outreach pitching a startup that helps American small businesses.",
+      "the_ask": "Investment",
+      "response": "Fast engagement",
+      "outcome": "Investment within 72 hours.",
+      "tactics": [
+        "specific-ask"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "Applico: This startup founder cold called Mark Cuban",
+          "url": "https://applicoinc.com/?p=13608"
+        }
+      ]
+    },
+    {
+      "id": "andylee-kalanick",
+      "sender": "Andy (Wandering Founder)",
+      "sender_context": "YC founder, ex-Uber self-driving ML engineer",
+      "recipient": "Travis Kalanick",
+      "recipient_role": "Uber co-founder; then starting the 10100 fund",
+      "year": "c. 2018 (as 10100 launched)",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Timed it to Kalanick leaving Uber and starting a fund. Framed a trade: Andy gets an angel and mentor; Kalanick backs a former Uber engineer with a unique market insight.",
+      "the_ask": "Angel investment",
+      "response": "Reply",
+      "outcome": "Andy says more than half of the billionaires and notable people he emails respond.",
+      "tactics": [
+        "win-win-trade",
+        "credibility-first",
+        "timing",
+        "transparent-self-interest"
+      ],
+      "verification": "self-reported",
+      "sources": [
+        {
+          "title": "Wandering Founder: The art of cold-emailing a billionaire",
+          "url": "https://wanderingfounder.substack.com/p/the-art-of-cold-emailing-a-billionaire"
+        }
+      ]
+    },
+    {
+      "id": "andylee-koller",
+      "sender": "Andy (Wandering Founder)",
+      "sender_context": "ML engineer",
+      "recipient": "Daphne Koller",
+      "recipient_role": "Coursera co-founder; founder of Insitro",
+      "year": "c. 2018 (as Insitro launched)",
+      "channel": "email",
+      "goal": "job",
+      "subject_line": null,
+      "what_it_did": "Wrote just as she was starting Insitro and positioned himself as an early employee who would do whatever it took to help the new company succeed.",
+      "the_ask": "Early role at Insitro",
+      "response": "Reply",
+      "outcome": "Conversation opened (details in source).",
+      "tactics": [
+        "timing",
+        "win-win-trade",
+        "credibility-first"
+      ],
+      "verification": "self-reported",
+      "sources": [
+        {
+          "title": "Wandering Founder: The art of cold-emailing a billionaire",
+          "url": "https://wanderingfounder.substack.com/p/the-art-of-cold-emailing-a-billionaire"
+        }
+      ]
+    },
+    {
+      "id": "andylee-lefkofsky",
+      "sender": "Andy (Wandering Founder)",
+      "sender_context": "Founder",
+      "recipient": "Eric Lefkofsky",
+      "recipient_role": "Groupon co-founder; CEO of Tempus",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Used the same four principles: establish competency, make the ask, be transparent about self-interest, show extra effort.",
+      "the_ask": "Not detailed publicly",
+      "response": "Reply",
+      "outcome": "Listed by the author among billionaires who responded.",
+      "tactics": [
+        "credibility-first",
+        "transparent-self-interest"
+      ],
+      "verification": "self-reported",
+      "sources": [
+        {
+          "title": "Wandering Founder: The art of cold-emailing a billionaire",
+          "url": "https://wanderingfounder.substack.com/p/the-art-of-cold-emailing-a-billionaire"
+        }
+      ]
+    },
+    {
+      "id": "andylee-mccormick",
+      "sender": "Andy (Wandering Founder)",
+      "sender_context": "Founder",
+      "recipient": "Packy McCormick",
+      "recipient_role": "Founder, Not Boring",
+      "year": "c. 2025",
+      "channel": "email",
+      "goal": "partnership",
+      "subject_line": null,
+      "what_it_did": "Pitched co-building a startup incubator and, before sending, wrote and published a full blog post arguing why Not Boring should incubate companies.",
+      "the_ask": "Co-build an incubator",
+      "response": "Agreed to a call",
+      "outcome": "The idea wasn't a fit, but the effort earned a real conversation.",
+      "tactics": [
+        "proof-of-work",
+        "win-win-trade"
+      ],
+      "verification": "self-reported",
+      "sources": [
+        {
+          "title": "Wandering Founder: The art of cold-emailing a billionaire",
+          "url": "https://wanderingfounder.substack.com/p/the-art-of-cold-emailing-a-billionaire"
+        }
+      ]
+    },
+    {
+      "id": "bonatsos-musk",
+      "sender": "Niko Bonatsos",
+      "sender_context": "Then a student; later Managing Director at General Catalyst",
+      "recipient": "Elon Musk",
+      "recipient_role": "CEO, Tesla",
+      "year": "student years (not stated)",
+      "channel": "email",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Went to Musk directly rather than Tesla staff. Opened with nostalgia (university and graduation) to read as human, not spam; offered sincere, specific appreciation rather than flattery.",
+      "the_ask": "Interview Musk for a research paper on Tesla's corporate strategy",
+      "response": "Musk responded",
+      "outcome": "Featured in the Cold Email Hall of Fame as a model of a simple, specific ask.",
+      "tactics": [
+        "specific-ask",
+        "curiosity-gap",
+        "researched-personalization"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: This student cold emailed Elon Musk",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/this-student-had-the-guts-to-cold-email-elon-musk-and-it-worked"
+        }
+      ]
+    },
+    {
+      "id": "bonatsos-spiegel",
+      "sender": "Niko Bonatsos",
+      "sender_context": "Then a student",
+      "recipient": "Evan Spiegel",
+      "recipient_role": "Co-founder and CEO, Snapchat",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "job",
+      "subject_line": null,
+      "what_it_did": "Cold-emailed asking for an internship.",
+      "the_ask": "Internship",
+      "response": "Spiegel responded",
+      "outcome": "Email shown to newsletter subscribers only.",
+      "tactics": [
+        "specific-ask"
+      ],
+      "verification": "gated",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: Niko Bonatsos feature",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/this-student-had-the-guts-to-cold-email-elon-musk-and-it-worked"
+        },
+        {
+          "title": "Cold Email Hall of Fame: Cold email ft. billion dollar investor",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-billion-dollar-investor"
+        }
+      ]
+    },
+    {
+      "id": "bonatsos-ballmer",
+      "sender": "Niko Bonatsos",
+      "sender_context": "Then a student",
+      "recipient": "Steve Ballmer",
+      "recipient_role": "Former CEO, Microsoft",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Cold-emailed Ballmer directly.",
+      "the_ask": "Not public",
+      "response": "Ballmer responded",
+      "outcome": "Email shown to newsletter subscribers only.",
+      "tactics": [],
+      "verification": "gated",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: Niko Bonatsos feature",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/this-student-had-the-guts-to-cold-email-elon-musk-and-it-worked"
+        }
+      ]
+    },
+    {
+      "id": "haldar-foundersinc",
+      "sender": "Siddharth Haldar",
+      "sender_context": "Canadian founder, rejected from the program he was emailing about",
+      "recipient": "Founders, Inc. (SF founder lab)",
+      "recipient_role": "Head of growth replied",
+      "year": "2025",
+      "channel": "email",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "After being the first rejected from the Ship It program, he spotted a My First Million casting call for a 'field trip correspondent' and knew Shaan Puri was close to a Founders, Inc. partner. Used that as a reason to offer to film content at the lab; rewrote the email many times.",
+      "the_ask": "Access to the lab to shoot content",
+      "response": "Reply the next day granting a one-week pass",
+      "outcome": "The video he shot impressed them enough to admit him into the same four-week program that had rejected him. He later started the Cold Email Hall of Fame newsletter.",
+      "tactics": [
+        "rejection-reply",
+        "proof-of-work",
+        "borrowed-credibility",
+        "researched-personalization"
+      ],
+      "verification": "primary",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: this 1 cold email got me into the world's coolest founder lab",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/this-1-cold-email-got-me-into-the-world-s-coolest-founder-lab"
+        }
+      ]
+    },
+    {
+      "id": "haldar-gauvreau-2024",
+      "sender": "Siddharth Haldar",
+      "sender_context": "University student building a startup",
+      "recipient": "Rian Gauvreau",
+      "recipient_role": "Co-founder of Clio (Vancouver unicorn)",
+      "year": "2024",
+      "channel": "email",
+      "goal": "mentorship",
+      "subject_line": null,
+      "what_it_did": "Researched Gauvreau before a university guest talk (including his friendship with Andrew Wilkinson), asked prepared questions in person, then sent a follow-up email to stand out.",
+      "the_ask": "Advice specific to his startup",
+      "response": "Reply and ongoing contact",
+      "outcome": "Became a mentor who helped when Haldar moved to SF. Haldar's rule: never ask someone to be your mentor; ask for advice, act on it, report back, repeat.",
+      "tactics": [
+        "meet-then-email",
+        "researched-personalization",
+        "specific-ask"
+      ],
+      "verification": "primary",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: The cold email that landed me a billionaire mentor",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/the-cold-email-that-landed-me-a-billionaire-mentor"
+        }
+      ]
+    },
+    {
+      "id": "unknown-chamath-2014",
+      "sender": "Unnamed sender",
+      "sender_context": "Featured in the Hall of Fame newsletter",
+      "recipient": "Chamath Palihapitiya",
+      "recipient_role": "Venture capitalist",
+      "year": "2014",
+      "channel": "email",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Read as authentic and human (passing the two-second spam test), opened a curiosity gap, and referenced Chamath's own early story of walking Sand Hill Road and writing a letter to a VC.",
+      "the_ask": "Not 'general advice'; a specific request (see source)",
+      "response": "Chamath replied",
+      "outcome": "Used by the newsletter to teach authenticity, curiosity gap and deep research.",
+      "tactics": [
+        "researched-personalization",
+        "curiosity-gap"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: cold email ft. self-made billionaire",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-self-made-billionaire-0dd2563782d9efb7"
+        }
+      ]
+    },
+    {
+      "id": "roylee-rejection",
+      "sender": "Roy Lee",
+      "sender_context": "Student rejected for a startup summer internship",
+      "recipient": "The startup that rejected him",
+      "recipient_role": "Hiring team",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "job",
+      "subject_line": null,
+      "what_it_did": "Replied to the rejection email instead of moving on. Made a no-downside offer and showed (rather than claimed) willingness: same time commitment, double the effort, available in the office until September.",
+      "the_ask": "Reconsider, at no risk to them",
+      "response": "They reconsidered",
+      "outcome": "Landed the summer internship.",
+      "tactics": [
+        "rejection-reply",
+        "no-risk-offer",
+        "specific-ask"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: Roy Lee's bold reply to a rejection",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/roy-lee-s-bold-reply-to-this-rejection-email-landed-him-his-dream-summer-internship-this-is-the-famo"
+        }
+      ]
+    },
+    {
+      "id": "shezan-anandan-2026",
+      "sender": "Shezan (newsletter reader)",
+      "sender_context": "Startup founder",
+      "recipient": "Rajan Anandan",
+      "recipient_role": "Managing Director, Peak XV Partners (formerly Sequoia Capital India)",
+      "year": "2026",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": null,
+      "what_it_did": "Bumped into Anandan at a Starbucks, pitched his startup on the spot, then followed up with a sharp cold email.",
+      "the_ask": "A meeting",
+      "response": "Meeting granted",
+      "outcome": "Full email shown to subscribers.",
+      "tactics": [
+        "meet-then-email"
+      ],
+      "verification": "gated",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: the man running Sequoia's India fund",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-the-man-running-sequoia-s-india-fund"
+        }
+      ]
+    },
+    {
+      "id": "founder-cuban-mentor-2026",
+      "sender": "Unnamed founder",
+      "sender_context": "Featured in the Hall of Fame newsletter",
+      "recipient": "Mark Cuban",
+      "recipient_role": "Billionaire investor",
+      "year": "2026",
+      "channel": "email",
+      "goal": "mentorship",
+      "subject_line": null,
+      "what_it_did": "A cold email that opened a string of conversations.",
+      "the_ask": "Not public",
+      "response": "Cuban replied",
+      "outcome": "Cuban became the founder's mentor.",
+      "tactics": [],
+      "verification": "gated",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: Mark Cuban (again)",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-mark-cuban-again"
+        }
+      ]
+    },
+    {
+      "id": "reader-samparr",
+      "sender": "Newsletter reader",
+      "sender_context": "Featured in the Hall of Fame newsletter",
+      "recipient": "Sam Parr",
+      "recipient_role": "Founder of The Hustle; co-host of My First Million",
+      "year": "2026",
+      "channel": "tweet reply + DM",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Replied to one of Parr's tweets, then followed with a cold DM.",
+      "the_ask": "Not public",
+      "response": "Parr replied",
+      "outcome": "Shows the same principles work in DMs.",
+      "tactics": [
+        "meet-then-email"
+      ],
+      "verification": "gated",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: the GOAT of cold emails",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-the-goat-of-cold-emails"
+        }
+      ]
+    },
+    {
+      "id": "podcaster-cowen",
+      "sender": "Podcaster from the Hall of Fame community",
+      "sender_context": "Worked 1:1 with the newsletter author",
+      "recipient": "Tyler Cowen",
+      "recipient_role": "Economist and author",
+      "year": "2025",
+      "channel": "email",
+      "goal": "media",
+      "subject_line": null,
+      "what_it_did": "Cold-emailed a podcast invitation.",
+      "the_ask": "Be a podcast guest",
+      "response": "Yes",
+      "outcome": "Landed Cowen as a guest.",
+      "tactics": [
+        "specific-ask"
+      ],
+      "verification": "self-reported",
+      "sources": [
+        {
+          "title": "Cold Email Hall of Fame: Everything I know about the art of cold email",
+          "url": "https://cold-email-hall-of-fame.beehiiv.com/p/everything-i-know-about-the-art-of-cold-email"
+        }
+      ]
+    },
+    {
+      "id": "corcoran-kagan",
+      "sender": "John Corcoran",
+      "sender_context": "Writer and podcaster; an earlier attempt years before had failed",
+      "recipient": "Noah Kagan",
+      "recipient_role": "Founder, AppSumo",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "media",
+      "subject_line": null,
+      "what_it_did": "Made sure Kagan had recently seen his name a couple of times first, then sent a very short interview request; later built rapport over shared interests in replies.",
+      "the_ask": "An interview for a guest post",
+      "response": "Yes",
+      "outcome": "Interview, a podcast appearance, feedback on his blog, a guest post on Kagan's site, and a thank-you box of cookies from Kagan.",
+      "tactics": [
+        "short",
+        "specific-ask",
+        "persistence"
+      ],
+      "verification": "primary",
+      "sources": [
+        {
+          "title": "OkDork: 5 cold email tips for VIP replies",
+          "url": "https://okdork.com/how-to-email-a-busy-vip-5-tips-for-connecting-with-a-cold-email/"
+        }
+      ]
+    },
+    {
+      "id": "kabir-bloom-2024",
+      "sender": "Kabir Krishn",
+      "sender_context": "Founder of upTalkk; ran 'Kabir Cold Emails Millionaires'",
+      "recipient": "Sahil Bloom",
+      "recipient_role": "Author and investor",
+      "year": "2024",
+      "channel": "email",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Compelling subject line, a timely welcome to India during Bloom's visit, and a brief line of credibility.",
+      "the_ask": "See source",
+      "response": "Bloom replied",
+      "outcome": "Conversation opened.",
+      "tactics": [
+        "timing",
+        "researched-personalization",
+        "credibility-first",
+        "short"
+      ],
+      "verification": "self-reported",
+      "sources": [
+        {
+          "title": "Kabir Cold Emails Millionaires: Sahil Bloom",
+          "url": "https://kabir-coldemails-millionaires.beehiiv.com/p/i-got-sahil-blooms-attention-and"
+        }
+      ]
+    },
+    {
+      "id": "kabir-pabrai-2024",
+      "sender": "Kabir Krishn",
+      "sender_context": "Founder of upTalkk",
+      "recipient": "Mohnish Pabrai",
+      "recipient_role": "Value investor",
+      "year": "2024",
+      "channel": "email",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "A sentence-by-sentence engineered email (breakdown published, archive now offline).",
+      "the_ask": "See source",
+      "response": "Pabrai replied",
+      "outcome": "Conversation opened.",
+      "tactics": [
+        "short"
+      ],
+      "verification": "self-reported",
+      "sources": [
+        {
+          "title": "Kabir Cold Emails Millionaires (newsletter home)",
+          "url": "https://kabir-coldemails-millionaires.beehiiv.com"
+        }
+      ]
+    },
+    {
+      "id": "simar-ambassador",
+      "sender": "Simar",
+      "sender_context": "Indian conference speaker with a 72-hour window",
+      "recipient": "Ambassador of a Nordic country",
+      "recipient_role": "Head of embassy",
+      "year": "not stated",
+      "channel": "email",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Visa processing normally took 20+ days; wrote directly to the ambassador asking for a visa within 48 hours.",
+      "the_ask": "Expedited visa",
+      "response": "Embassy called within 12 hours",
+      "outcome": "Visa stamped in under 36 hours. The author also reports replies from Mark Zuckerberg, Sheryl Sandberg, Vinod Khosla, Jeff Bezos and Justin Trudeau over 500+ cold emails.",
+      "tactics": [
+        "specific-ask",
+        "short"
+      ],
+      "verification": "self-reported",
+      "sources": [
+        {
+          "title": "Simar: How to write successful cold emails",
+          "url": "https://hellosimar.substack.com/p/how-to-write-successful-cold-emails"
+        }
+      ]
+    },
+    {
+      "id": "jobs-hewlett",
+      "sender": "Steve Jobs (age 12)",
+      "sender_context": "Middle-schooler building a frequency counter",
+      "recipient": "Bill Hewlett",
+      "recipient_role": "Co-founder, Hewlett-Packard",
+      "year": "c. 1967-68",
+      "channel": "phone (pre-email classic)",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Found Hewlett in the phone book and called. Introduced himself plainly as a 12-year-old building a frequency counter and asked if there were spare parts.",
+      "the_ask": "Spare parts",
+      "response": "Hewlett laughed, talked about the project and personally arranged the parts",
+      "outcome": "Parts plus a summer job on HP's assembly line. Jobs later said he never found anyone who refused to help when asked.",
+      "tactics": [
+        "specific-ask",
+        "tiny-ask",
+        "humility"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "Wikipedia: Bill Hewlett",
+          "url": "https://en.wikipedia.org/wiki/Bill_Hewlett"
+        },
+        {
+          "title": "Fortune: Steve Jobs was just 12 when he called HP's cofounder",
+          "url": "https://fortune.com/2025/03/16/steve-jobs-teenager-hp-cofounder-career-success"
+        }
+      ]
+    },
+    {
+      "id": "bridgewater-pichai-2017",
+      "sender": "Chloe Bridgewater (age 7)",
+      "sender_context": "Schoolgirl in Hereford, UK",
+      "recipient": "Sundar Pichai",
+      "recipient_role": "CEO, Google",
+      "year": "2017",
+      "channel": "handwritten letter (+ email from her father)",
+      "goal": "job",
+      "subject_line": "Dear Google boss",
+      "what_it_did": "An honest handwritten job application listing her love of computers and robots (and backup plans as an Olympic swimmer or chocolate-factory worker). Her father also emailed Google so the letter would reach the right desk.",
+      "the_ask": "A job at Google",
+      "response": "Personal signed reply within about four days",
+      "outcome": "Pichai encouraged her to keep learning and said he looked forward to her application after school. The exchange went viral.",
+      "tactics": [
+        "specific-ask",
+        "humility"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "STV: Google chief's quick reply to Hereford girl",
+          "url": "https://archive.news.stv.tv/archive/1380905-google-chief-s-quick-reply-to-hereford-girl-s-job-bid.html"
+        },
+        {
+          "title": "The Next Web: 7-year-old applied for a job at Google",
+          "url": "https://thenextweb.com/news/google-ceo-girl-job-application"
+        }
+      ]
+    },
+    {
+      "id": "ferriss-first-job-2000",
+      "sender": "Tim Ferriss",
+      "sender_context": "Recent Princeton graduate in New York",
+      "recipient": "CEO of a Silicon Valley startup (reportedly TrueSAN)",
+      "recipient_role": "Startup CEO",
+      "year": "c. 2000",
+      "channel": "email",
+      "goal": "job",
+      "subject_line": null,
+      "what_it_did": "Emailed the CEO repeatedly but never rudely or too often. Upgraded his signature to a legitimate title (event producer with a startup association) and finally said he'd be 'in the neighborhood' and could stop by.",
+      "the_ask": "A short visit",
+      "response": "CEO agreed to a Tuesday meeting",
+      "outcome": "Flew standby to California and walked out with a sales job.",
+      "tactics": [
+        "persistence",
+        "borrowed-credibility",
+        "tiny-ask"
+      ],
+      "verification": "primary",
+      "sources": [
+        {
+          "title": "Entrepreneur (Alex Banayan): Tim Ferriss's cold email template",
+          "url": "https://www.entrepreneur.com/article/314465"
+        }
+      ]
+    },
+    {
+      "id": "ferriss-princeton-class-2007",
+      "sender": "Tim Ferriss's Princeton students",
+      "sender_context": "Seniors in 'High-Tech Entrepreneurship', challenged to contact the unreachable",
+      "recipient": "CEOs and public figures (Disney, Comcast, Google, HP CEOs; a former president; Kleiner Perkins's Randy Komisar)",
+      "recipient_role": "Various",
+      "year": "2007",
+      "channel": "email + phone",
+      "goal": "access",
+      "subject_line": null,
+      "what_it_did": "Ferriss offered a round-trip ticket anywhere to whoever got answers from the hardest-to-reach person. One student built real rapport with Komisar over several genuine exchanges.",
+      "the_ask": "Answer a question they'd always wanted to ask",
+      "response": "Multiple replies, including from people considered unreachable",
+      "outcome": "Komisar later emailed the student unprompted with a relevant article. Ferriss's point: getting those replies rewires your sense of what's possible.",
+      "tactics": [
+        "specific-ask",
+        "short",
+        "volume"
+      ],
+      "verification": "multi-source",
+      "sources": [
+        {
+          "title": "Tim Ferriss: How to get George Bush or the CEO of Google on the phone",
+          "url": "https://tim.blog/?p=182"
+        },
+        {
+          "title": "Princeton Alumni Weekly: On the Campus",
+          "url": "https://swh.princeton.edu/~paw/columns/on_the_campus/on_the_campus_060607.html"
+        }
+      ]
+    },
+    {
+      "id": "wessel-water-aerobics",
+      "sender": "Liz Wessel",
+      "sender_context": "Co-founder and CEO of WayUp",
+      "recipient": "Investor with a water-aerobics background",
+      "recipient_role": "Investor",
+      "year": "2010s",
+      "channel": "email",
+      "goal": "funding",
+      "subject_line": "fellow former water aerobics professional",
+      "what_it_did": "Dug deep enough to find the recipient's obscure water-aerobics past and used it as an absurd, impossible-to-ignore subject line; the body was sharp and credible.",
+      "the_ask": "Investor conversation",
+      "response": "Opened and answered",
+      "outcome": "Part of a pattern of research-heavy outreach; WayUp raised $27.5M+.",
+      "tactics": [
+        "researched-personalization",
+        "curiosity-gap"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "AngelBacked: emails that got founders funded",
+          "url": "https://www.angelbacked.co/blog/cold-emails-that-got-founders-funded"
+        }
+      ]
+    },
+    {
+      "id": "berman-experiment27",
+      "sender": "Alex Berman",
+      "sender_context": "Founder of the agency Experiment 27",
+      "recipient": "40 hand-researched leads",
+      "recipient_role": "B2B prospects",
+      "year": "2010s",
+      "channel": "email",
+      "goal": "sales",
+      "subject_line": null,
+      "what_it_did": "Personalized in multiple places (including company name in the subject), asked prospects about their own successful strategies, hinted at the pain point and positioned himself as a resource rather than hard-selling.",
+      "the_ask": "A meeting",
+      "response": "17.5% booked a meeting",
+      "outcome": "Helped grow the agency to about $400K in annual revenue within 30 days.",
+      "tactics": [
+        "researched-personalization",
+        "curiosity-gap",
+        "specific-ask"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "Hunter: 5 Cold Email Examples",
+          "url": "https://hunter.io/blog/cold-email-examples/"
+        }
+      ]
+    },
+    {
+      "id": "robinson-retainer",
+      "sender": "Ryan Robinson",
+      "sender_context": "Content-marketing consultant",
+      "recipient": "A brand he'd identified as a perfect-fit client",
+      "recipient_role": "Prospective client",
+      "year": "2010s",
+      "channel": "email",
+      "goal": "sales",
+      "subject_line": null,
+      "what_it_did": "Casual tone by design; opened by talking about the recipient rather than his offer, showing he'd done his homework.",
+      "the_ask": "A conversation about working together",
+      "response": "Yes",
+      "outcome": "A $10,000-per-month retainer.",
+      "tactics": [
+        "researched-personalization",
+        "win-win-trade"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "Hunter: 5 Cold Email Examples",
+          "url": "https://hunter.io/blog/cold-email-examples/"
+        }
+      ]
+    },
+    {
+      "id": "lopuch-gigster",
+      "sender": "Laura Lopuch",
+      "sender_context": "Copywriter",
+      "recipient": "Gigster",
+      "recipient_role": "Prospective client",
+      "year": "2010s",
+      "channel": "email",
+      "goal": "sales",
+      "subject_line": null,
+      "what_it_did": "Called herself a 'customer story writer' (a benefit, not a job title), gave a usable customer-story strategy for free inside the email, then listed tech-writing credentials.",
+      "the_ask": "Work together on customer stories",
+      "response": "Engagement",
+      "outcome": "Part of the outreach that grew her business 1,400% in four months.",
+      "tactics": [
+        "proof-of-work",
+        "credibility-first",
+        "win-win-trade"
+      ],
+      "verification": "single-source",
+      "sources": [
+        {
+          "title": "Hunter: 5 Cold Email Examples",
+          "url": "https://hunter.io/blog/cold-email-examples/"
+        }
+      ]
+    }
+  ],
+  "hall_of_fame_gated_features": [
+    {
+      "title": "Cold email ft. CEO of Netflix (Marc Randolph)",
+      "date": "2026-01-10",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-ceo-of-netflix"
+    },
+    {
+      "title": "Cold email ft. President of OpenAI",
+      "date": "2026-02-26",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-president-of-openai"
+    },
+    {
+      "title": "Cold email ft. 10 figure partner at a16z",
+      "date": "2026-09-03",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-10-figure-partner-at-a16z"
+    },
+    {
+      "title": "Cold email ft. billion dollar VC (Niko Bonatsos, General Catalyst)",
+      "date": "2026-07-10",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-billion-dollar-vc"
+    },
+    {
+      "title": "Cold email ft. billion dollar investor",
+      "date": "2026-01-19",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-billion-dollar-investor"
+    },
+    {
+      "title": "Cold email ft. multi million $$$ founder",
+      "date": "2026-01-01",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-multi-million-founder"
+    },
+    {
+      "title": "Cold email ft. CEO of billion dollar companies",
+      "date": "2026-04-20",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-ceo-of-billion-dollar-companies"
+    },
+    {
+      "title": "Cold email ft. Mark Cuban",
+      "date": "2026-05-24",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-mark-cuban"
+    },
+    {
+      "title": "We got acquired (+ cold email ft. Paul Graham)",
+      "date": "2025-08-20",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/a982a66ca4170a59"
+    },
+    {
+      "title": "cold email ft. 8-figure marketer",
+      "date": "2025-08-12",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/9143f71f7055c45d"
+    },
+    {
+      "title": "cold email ft. intern",
+      "date": "2025-08-05",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/de037186cc86b200"
+    },
+    {
+      "title": "Cold email ft. b2b service",
+      "date": "2026-04-01",
+      "url": "https://cold-email-hall-of-fame.beehiiv.com/p/cold-email-ft-b2b-service"
+    }
+  ],
+  "recipient_facts": [
+    {
+      "recipient": "Mark Cuban",
+      "fact": "Keeps a public email address; as of 2020 got up to ~1,000 pitches a day, deletes ~90% and decides in a couple of seconds.",
+      "source": "https://www.nbclosangeles.com/news/business/money-report/at-20-he-cold-emailed-mark-cuban-and-landed-a-350000-investment-now-the-company-is-worth-4-6-billion/3704075"
+    },
+    {
+      "recipient": "Jason Lemkin",
+      "fact": "Publicly says he reads cold emails and has funded companies from them; prefers ~150-200 words with at least two concrete metrics.",
+      "source": "https://www.angelbacked.co/blog/jason-lemkin-cold-email-portfolio-talkdesk-salesloft-pipedrive"
+    },
+    {
+      "recipient": "Elad Gil",
+      "fact": "Lists on his own website what he wants help with, a model for researching what a recipient values.",
+      "source": "https://wanderingfounder.substack.com/p/the-art-of-cold-emailing-a-billionaire"
+    },
+    {
+      "recipient": "Busy CEOs and VCs generally",
+      "fact": "Auren Hoffman: most read every well-formed email; the recipient should benefit more than the sender, or wait until you have something that benefits them.",
+      "source": "https://www.inc.com/jessica-stillman/a-ceo-explains-how-to-write-cold-emails-that-actually-get-answered.html"
+    }
+  ]
+}
