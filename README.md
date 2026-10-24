@@ -18,7 +18,7 @@ Each entry records who sent it, what made it work, the ask, how fast the reply c
 
 ### Install
 
-- **Claude apps:** download `cold-email-hall-of-fame-skill.zip` from [Releases](../../releases), then Settings → Capabilities → Skills → upload.
+- **Claude apps:** download [`cold-email-hall-of-fame-skill.zip`](https://github.com/elo252/cold-email-hall-of-fame/raw/main/dist/cold-email-hall-of-fame-skill.zip), then Settings → Capabilities → Skills → upload.
 - **Claude Code:** `git clone https://github.com/elo252/cold-email-hall-of-fame && cp -r cold-email-hall-of-fame/cold-email-hall-of-fame ~/.claude/skills/`
 
 ### Try it
@@ -36,6 +36,7 @@ Each entry records who sent it, what made it work, the ask, how fast the reply c
 | `data/emails.json` | Database with tactic glossary and evidence definitions |
 | `data/emails.csv` | Same data for spreadsheets |
 | `docs/index.html` | The searchable archive page (served by GitHub Pages) |
+| `dist/cold-email-hall-of-fame-skill.zip` | Ready-to-upload skill package |
 
 ## What the winners have in common
 
